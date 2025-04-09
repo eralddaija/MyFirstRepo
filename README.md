@@ -9,3 +9,7 @@ For the first time its not that bad!
 ## First time in Visual Studio with Git
 
 Now its my time to try it in visual
+
+## Local Development
+
+1. Open index.html in your browser
